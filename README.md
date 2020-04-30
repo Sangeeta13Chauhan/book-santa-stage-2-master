@@ -1,1 +1,2 @@
-# book-santa-stage-2-master
+# book-santa-stage-2
+Stage - 2
